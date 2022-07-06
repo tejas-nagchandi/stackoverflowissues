@@ -1,5 +1,5 @@
 # azure-devops-conditional-variable
-This repo is created for https://stackoverflow.com/questions/69652609/azure-devops-yml-pipeline-if-else-condition-with-variables/70184550?noredirect=1#comment124097630_70184550
+This directory is created for https://stackoverflow.com/questions/69652609/azure-devops-yml-pipeline-if-else-condition-with-variables/70184550?noredirect=1#comment124097630_70184550
 
 
 ## Test 1:
