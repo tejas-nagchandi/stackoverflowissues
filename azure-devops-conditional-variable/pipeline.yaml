@@ -1,0 +1,16 @@
+trigger:
+  - none
+
+variables:
+  - group: Temp-group-for-testing
+  - name: fileName
+    value: $[replace(replace('True',eq(variables['test'], 'True'), 'value1'),'True','value2')]
+
+stages:
+  - stage: test
+    jobs: 
+     - job: testvar
+       continueOnError: false
+       steps: 
+         - bash: echo $(fileName)
+           displayName: "echo variable"
