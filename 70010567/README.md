@@ -1,5 +1,5 @@
 # delimited-input-pass-to-template
-This repo is for the solution of https://stackoverflow.com/questions/70010567/azure-devops-yaml-passing-variable-using-vsotask-setvariable-not-working/70018418?noredirect=1#comment124021594_70018418
+This directory is for the solution of https://stackoverflow.com/questions/70010567/azure-devops-yaml-passing-variable-using-vsotask-setvariable-not-working/70018418?noredirect=1#comment124021594_70018418
 
 # Input parameter
 d, t, a, p

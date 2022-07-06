@@ -1,2 +1,2 @@
 # stackoverflowissues
-Created this repository to manage all stack overflow issues
+Created this repository to manage stack overflow issues.
